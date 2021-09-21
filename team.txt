@@ -1,6 +1,3 @@
 Mehdi Boukattaya
-<<<<<<< HEAD
 Taha Ben Amor
-=======
 Fakhreddine Bouaziz
->>>>>>> af0f55df09303174cfa60a7f43cc18a3102c2ce1
